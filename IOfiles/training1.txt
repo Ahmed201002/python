@@ -1,0 +1,49 @@
+Software Safety Engineer* - Funktionale Sicherheit Automotive Embedded Systems
+Standort: Chemnitz, Gifhorn, Ludwigsburg / Stuttgart, München, Berlin 
+Kennziffer: TD-S-SAM-24149
+
+Ihre Aufgaben
+
+Für den Automobil-Bereich ist mit der Norm ISO 26262 ein Standard zur Funktionalen Sicherheit aufgestellt, der als Anleitung zur Vermeidung und Beherrschung von sicherheitskritischen Fehlern bei der Entwicklung von elektrischen / elektronischen (E/E-) Systemen angewendet wird. 
+Die Analyse des zu entwickelnden Systems, die Festlegung und Durchführung der anzuwendenden technischen und prozessualen Maßnahmen, der Nachweis über deren Erfüllung und die Durchführung der Sicherheitsanalysen auf Angemessenheit und Vollständigkeit sind anspruchsvoll und spannend. 
+Wir entwickeln Embedded Systeme und Software für die Bereiche E-Mobility, Karosserieelektronik sowie Komfort- und Fahrerassistenzsysteme und suchen Sie für den Ausbau unseres Safety-Teams. 
+Ihre Arbeit beinhaltet eine oder mehrere der folgenden Aufgabenfelder:
+
+Abstimmung der sicherheitsrelevanten Aufgaben mit den Auftraggebern sowie des Development Interface Agreements (DIA)
+Management, Planung und Verfolgung der sicherheitsrelevanten Entwicklungsaktivitäten
+Ausarbeitung der Sicherheitsanforderungen auf System- oder HW / SW-Ebene
+Darlegung des Funktionalen bzw. Technischen Sicherheitskonzeptes
+Planung und Moderation von Analyse- und Lösungsfindungsworkshops
+Konzeption und Begleitung der Absicherungsmaßnahmen zu den Sicherheitsanforderungen
+Zusammenführung der Analysen und Absicherungsergebnisse zum Sicherheitsnachweis und zu den Sicherheits-Freigabeempfehlungen
+Kommunikation und Vermittlung zwischen dem Auftraggeber und dem Projektteam
+Teilnahme an den Projektleitungsrunden sowie Reporting des Safety-Status
+Der Software Safety Engineer unterstützt den Safety Manager bei den o. g. Aufgabenfeldern und treibt die Engineering-Tätigkeiten. Bitte geben Sie uns im Anschreiben Ihren bevorzugten IAV-Standort an.
+
+Ihre Kompetenz
+
+Erfolgreich abgeschlossenes Studium der Fachrichtung Elektrotechnik, Technische Informatik, Mechatronik, Physik oder eines vergleichbaren Studienganges
+Mehrjährige Erfahrung in der Entwicklung sicherheitsrelevanter Embedded-Projekte (System, Hardware, Software, Bauteile)
+Gute Kenntnisse in Normen der Funktionalen Sicherheit (ISO 26262, IEC 61508, ISO 25119 etc.)
+Verständnis für Prozesse und die Qualitätssicherung nach Automotive SPICE
+Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+Reisebereitschaft während der Projektbearbeitung
+Analytisches Denkvermögen, kreative Herangehensweise, Lern- und Leistungsbereitschaft
+Kooperativer und eigenverantwortlicher Arbeitsstil sowie Teamfähigkeit
+Unser Angebot
+
+IAV bietet ein Leistungsspektrum, das in seinem Umfang einmalig ist – und damit auch die beruflichen Möglichkeiten für unsere Mitarbeiter. Bei uns arbeiten Sie an anspruchsvollen und zukunftsweisenden Aufgaben mit viel Freiraum für Ihre Ideen. Durch gezielte Qualifizierung bieten wir Ihnen beste Perspektiven für Ihre berufliche Entwicklung.
+
+* Bei uns sind Sie willkommen, unabhängig von persönlichen Merkmalen wie z. B. Herkunft, Geschlecht oder Alter.
+
+Ihr Ansprechpartner
+
+Dr. Bernhard Hayn 
+Telefon +49 30 3997-89382
+
+www.iav.com/karriere
+
+Werden Sie Teil unseres Teams – 
+wir freuen uns auf Sie!
+
+Jetzt bewerben!
